@@ -56,7 +56,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎯𝘕𝘦𝘸 𝘮𝘰𝘷𝘪𝘦𝘴🍿', url="https://t.me/Movie_Bazar369"
                                 )
                         ]
                     ]
@@ -75,7 +75,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎯𝘕𝘦𝘸 𝘮𝘰𝘷𝘪𝘦𝘴🍿', url="https://t.me/Movie_Bazar369"
                                 )
                         ]
                     ]
@@ -94,7 +94,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🎯𝘕𝘦𝘸 𝘔𝘰𝘷𝘪𝘦𝘴🍿', url="https://t.me/Movie_Bazar369"
+                                  
                                 )
                         ]
                     ]
@@ -107,10 +108,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('🎯𝗚𝗿𝗼𝘂𝗽🎯', url='https://t.me/MB_ChatGroup'),
+        InlineKeyboardButton('🎯𝗖𝗵𝗮𝗻𝗻𝗲𝗹🎯', url ='https://t.me/Movie_Bazar369')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🎯𝗖𝗵𝗮𝗻𝗻𝗲𝗹²🎯', url='https://t.me/joinchat/ljGuw0b3EQMxYTA1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]

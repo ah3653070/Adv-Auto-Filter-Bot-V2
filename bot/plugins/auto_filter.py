@@ -203,8 +203,9 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"Found {(len_results)} Results For Your Query: <code>{query}</code>",
+                text=f"Found {(len_results)} Results For Your Query: <code>{query}</code><a href=https://t.me/MB_ChatGroup >\n\n𝗠𝗢𝗩𝗜𝗘 𝗕𝗔𝗭𝗔𝗥</a>",
                 reply_markup=reply_markup,
+                disable_web_page_preview=True, 
                 parse_mode="html",
                 reply_to_message_id=update.message_id
             )

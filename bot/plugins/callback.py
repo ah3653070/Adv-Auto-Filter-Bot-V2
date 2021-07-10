@@ -142,12 +142,13 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code><a href=https://t.me/MB_ChatGroup >\n\n𝗠𝗢𝗩𝗜𝗘 𝗕𝗔𝗭𝗔𝗥</a>"
         
     try:
         await update.message.edit(
                 text,
                 reply_markup=reply_markup,
+                disable_web_page_preview=True, 
                 parse_mode="html"
         )
         

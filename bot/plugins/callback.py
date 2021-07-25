@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('🎯𝗚𝗿𝗼𝘂𝗽🎯', url='https://t.me/MB_ChatGroup'),
+            InlineKeyboardButton('🎯𝗚𝗿𝗼𝘂𝗽🎯', url='https://t.me/MB_ChatGrp'),
             InlineKeyboardButton('🎯𝗖𝗵𝗮𝗻𝗻𝗲𝗹🎯', url ='https://t.me/Movie_Bazar369')
         ],[
             InlineKeyboardButton('🎯𝗖𝗵𝗮𝗻𝗻𝗲𝗹²🎯', url='https://t.me/joinchat/ljGuw0b3EQMxYTA1')

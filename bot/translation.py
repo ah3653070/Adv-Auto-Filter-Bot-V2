@@ -10,7 +10,7 @@ class Translation(object):
 Please Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@Royalbotz
 </i>"""    
     
     HELP_TEXT = """

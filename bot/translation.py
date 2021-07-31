@@ -5,9 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot.... And most useful for anyone
+<i>Am  A Advance Auto Filter Bot.... And most useful for anyone
 
-Please Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Please Me To Your Group And Channel And Connect Them And See My power
 
 For More Details Click Help Button Below..
 @Royalbotz
@@ -20,7 +20,7 @@ For More Details Click Help Button Below..
 -> Add Me To Any Group And Make Me Admin
 -> Add Me To Your Desired Channel
 </i>
- <a href=''https://t.me/Royalbotz/53''>⚠️ click here for Cammants and more help ⚠️</a>
+ <a href=''https://t.me/Royalbotz/53''> ⚠️ click here for Cammants and more help ⚠️</a>
 
  
 © @Royalbotz

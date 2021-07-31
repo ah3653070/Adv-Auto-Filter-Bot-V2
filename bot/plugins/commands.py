@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🌐Channel', url='https://t.me/Royalbotz'),
-        InlineKeyboardButton('📒 Dev's', url ='https://t.me/Royalbotz')
+        InlineKeyboardButton('📒 Devs', url ='https://t.me/Royalbotz')
     ],[
         InlineKeyboardButton('Support 👥', url='https://t.me/tgBotsChat')
     ],[

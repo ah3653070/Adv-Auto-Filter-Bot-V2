@@ -9,7 +9,7 @@ class Translation(object):
 
 Please Me To Your Group And Channel And Connect Them And See My power
 
-For More Details Click Help Button Below..
+Click Help Button Below For More Details ....
 @Royalbotz
 </i>"""    
     
@@ -20,7 +20,7 @@ For More Details Click Help Button Below..
 -> Add Me To Any Group And Make Me Admin
 -> Add Me To Your Desired Channel
 </i>
- <a href=''https://t.me/Royalbotz/53''> ⚠️ click here for Cammants and more help ⚠️</a>
+ https://t.me/Royalbotz/53
 
  
 © @Royalbotz
@@ -28,7 +28,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-🔻Creator  : <b><i> @haseebRb / @The_God_of_devil</i>
+🔻Creator  : <b><i>@haseebRb ,@The_God_of_devil</i>
 
 🔻Language : <code>Python3</code>
 

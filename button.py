@@ -1,3 +1,6 @@
+
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+
 START_MSG = """
 Click the below to get Your movie  <b><i>RoyalBotz</i></b>""" 
 

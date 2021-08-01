@@ -9,7 +9,7 @@ from bot.database import Database # pylint: disable=import-error
 
 db = Database()
 
-@Client.on_message(filters.command(["movie"]) & filters.private, group=1)
+@Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def movie(bot, update):
     
     try:

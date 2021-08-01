@@ -8,7 +8,6 @@ from bot import Translation, LOGGER # pylint: disable=import-error
 from bot.database import Database # pylint: disable=import-error
 
 db = Database()
-except UserNotParticipant: #await update.reply_text(f"Join @{Channel User Name} To Use Me") From Motech.py await update.reply_text( text=f"<b>{SUB_TEXT}</b>", reply_markup=InlineKeyboardMarkup([ [ InlineKeyboardButton(text=f"{SUB_JOIN}", url=f"t.me/{UPDATE_CHANNEL}")], [ InlineKeyboardButton(text=f"{SUB_TRY}", url=f"https://t.me/{BOT_USER_NAME}?start=try")] ])
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot, update):

@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🌐Channel', url="https://t.me/Royalbotz"
+                                    '𝚌𝚑𝚊𝚗𝚗𝚎𝚕🔗', url="https://t.me/Royalbotz"
                                 )
                         ]
                     ]
@@ -47,13 +47,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🌐Channel', url='https://t.me/Royalbotz'),
-        InlineKeyboardButton('📒 Devs', url ='https://t.me/Royalbotz')
-    ],[
-        InlineKeyboardButton('Support 👥', url='https://t.me/tgBotsChat')
-    ],[
-        InlineKeyboardButton('Help 🔶', callback_data="help")
-    ]]
+            InlineKeyboardButton('𝚌𝚑𝚊𝚗𝚗𝚎𝚕🔗', url='https://t.me/Royalbotz'),
+            InlineKeyboardButton('𝚜𝚞𝚙𝚙𝚘𝚛𝚝👥', url ='https://t.me/tgbotschat')
+        ],[
+            
+            InlineKeyboardButton('𝙷𝚎𝚕𝚙 ⚠️', callback_data="help")
+        ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     

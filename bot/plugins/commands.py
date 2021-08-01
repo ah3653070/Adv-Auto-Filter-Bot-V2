@@ -9,8 +9,8 @@ from bot.database import Database # pylint: disable=import-error
 
 db = Database()
 
-@Client.on_message(filters.command(["start"]) & filters.private, group=1)
-async def start(bot, update):
+@Client.on_message(filters.command(["movie"]) & filters.private, group=1)
+async def movie(bot, update):
     
     try:
         file_uid = update.command[1]

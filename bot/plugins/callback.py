@@ -1643,7 +1643,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('𝚜𝚞𝚙𝚙𝚘𝚛𝚝👥', url ='https://t.me/tgbotschat')
         ],[
             
-            InlineKeyboardButton('Help ⚠️', callback_data="help")
+            InlineKeyboardButton('𝙷𝚎𝚕𝚙 ⚠️', callback_data="help")
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
